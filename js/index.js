@@ -20,8 +20,6 @@ const calcular = () => {
             document.querySelector('#area').value = calcArea;
         }
     }
-
-
 }
 
 const limpiar = () => {
